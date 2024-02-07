@@ -1,0 +1,17 @@
+{
+  "name": "toastbot",
+  "version": "1.0.2",
+  "description": "ToastBot is a Discord bot designed exclusively for the Toasted's Den Discord server, featuring essential moderation tools, and a touch of fun commands users can use in a humorous manner, making interactions lively and entertaining. ",
+  "main": "toastBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toasted Den",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^13.0.0",
+    "dotenv": "^16.4.1",
+    "ms": "^2.1.3"
+  }
+}
